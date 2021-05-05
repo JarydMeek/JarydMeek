@@ -17,8 +17,6 @@
 <p>Walk/Run tracking application written in SwiftUI for IOS devices. Includes database, scoreboard, and login.</p><br>
 
 
-<a href="https://jarydmeek.com/resume/Jaryd_Meek_Resume_Website.pdf" target="_blank"><p  align="center"><img class="link-img" width="10%" src="https://jarydmeek.com/Style/resume.svg"><br>Resume</p></a> <br>
-
 <h2 align="center">Classes</h2>
 <h3 align="center">Spring 2021</h3>
 
