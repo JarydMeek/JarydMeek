@@ -2,7 +2,7 @@
 
 <h1 align="center">Jaryd Meek</h1>
 <h3 align="center">Computer Science student at the University of Colorado, Boulder</h3>
-<br><br><br>
+<br>
  
 <h2 align="center">Projects</h2>
 <h3 align="center">Ongoing</h3>
