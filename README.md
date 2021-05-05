@@ -20,11 +20,11 @@
 <h2 align="center">Classes</h2>
 <h3 align="center">Spring 2021</h3>
 
-<h5>CSCI 3104 - Algorithms</h5>
+<a href="https://github.com/JarydMeek/CSCI-3104"><h5>CSCI 3104 - Algorithms</h5></a>
 
-<h5>CSCI 3022 - Introduction to Data Science with Probability and Statistics</h5>
+<a href="https://github.com/JarydMeek/CSCI-3022"><h5>CSCI 3022 - Introduction to Data Science with Probability and Statistics</h5></a>
 
-<h5>CSCI 3002 - Fundamentals of Human Computer Interaction</h5>
+<a href="https://github.com/JarydMeek/CSCI-3002"><h5>CSCI 3002 - Fundamentals of Human Computer Interaction</h5></a>
 
 <h3 align="center">Fall 2020</h3>
 
