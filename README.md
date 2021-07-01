@@ -9,10 +9,10 @@
 
 
 <a href="https://github.com/JarydMeek/FPCX-Marker-Timestamps"><h5>FCPX-Marker-Timestamps</h5></a>
-<p><b>June 2021 - Current:</b> An Open-Source Swift/SwiftUI application to turn Final Cut Pro X markers and turn them into timestamps.</p>
+<p><b>June 2021 - Current:</b> An Open-Source Swift/SwiftUI application to turn Final Cut Pro X markers into timestamps.</p>
 
 <a href="https://github.com/JarydMeek/Flight-Check"><h5>Flight Check</h5></a>
-<p><b>June 2020 - Current:</b> Flight check is a SwiftUI IOS app for pilots to view crucial flight information quickly before flying.</p>
+<p><b>June 2020 - Current</b> (Published On App Store In June 2021)<b>:</b> Flight check is an open-source Swift/SwiftUI IOS app for pilots to view crucial flight information quickly before flying.</p>
 
 
 <h3 align="center">Completed</h3>
