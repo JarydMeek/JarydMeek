@@ -9,16 +9,16 @@
 
 
 <a href="https://github.com/JarydMeek/FPCX-Marker-Timestamps"><h5>FCPX-Marker-Timestamps</h5></a>
-<p><b>June 2021 - Current:</b> An Open-Source Swift/SwiftUI application to turn Final Cut Pro X markers into timestamps.</p>
+<p> An Open-Source Swift/SwiftUI application to turn Final Cut Pro X markers into timestamps.</p>
 
 <h3 align="center">Completed</h3>
 
 <a href="https://github.com/JarydMeek/Flight-Check"><h5>Flight Check</h5></a>
-<p><b>June 2020 - June 2021:</b> Flight check is an open-source Swift/SwiftUI IOS app for pilots to view crucial flight information quickly before flying.</p>
+<p> Flight check is an open-source Swift/SwiftUI IOS app for pilots to view crucial flight information quickly before flying.</p>
 
 
 <a href="https://github.com/JarydMeek/CSCI-3308/tree/master/Group%20Project/All%20Project%20Code%20and%20Components"><h5>Pathfinder - CSCI 3308</h5></a>
-<p><b>August 2020 - December 2020:</b> Walk/Run tracking application written in SwiftUI for IOS devices. Includes database, scoreboard, and login.</p><br>
+<p> Walk/Run tracking application written in SwiftUI for IOS devices. Includes database, scoreboard, and login.</p><br>
 
 
 <h2 align="center">Classes</h2>
