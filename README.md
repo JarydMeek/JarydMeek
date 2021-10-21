@@ -22,27 +22,28 @@
 
 
 <h2 align="center">Classes</h2>
+If you are an employer and would like access to my private repositories for any class to see my work, please let me know and I can do that!
 <h3 align="center">Spring 2021</h3>
 
-<a href="https://github.com/JarydMeek/CSCI-3104"><h5>CSCI 3104 - Algorithms</h5></a>
+<h5>CSCI 3104 - Algorithms</h5>
 
-<a href="https://github.com/JarydMeek/CSCI-3022"><h5>CSCI 3022 - Introduction to Data Science with Probability and Statistics</h5></a>
+<h5>CSCI 3022 - Introduction to Data Science with Probability and Statistics</h5>
 
-<a href="https://github.com/JarydMeek/CSCI-3002"><h5>CSCI 3002 - Fundamentals of Human Computer Interaction</h5></a>
+<h5>CSCI 3002 - Fundamentals of Human Computer Interaction</h5>
 
 <h3 align="center">Fall 2020</h3>
 
-<a href="https://github.com/JarydMeek/CSCI-2400"><h5>CSCI 2400 - Computer Systems</h5></a>
+<h5>CSCI 2400 - Computer Systems</h5>
 
 <a href="https://github.com/JarydMeek/CSCI-3308"><h5>CSCI 3308 - Software Development Methods and Tools</h5></a>
 
 <h3 align="center">Spring 2020</h3>
 
-<a href="https://github.com/JarydMeek/CSCI-2270"><h5>CSCI 2270 - Computer Science 2: Data Structures</h5></a>
+<h5>CSCI 2270 - Computer Science 2: Data Structures</h5>
 
 <h3 align="center">Fall 2019</h3>
 
-<a href="https://github.com/JarydMeek/CSCI-1300"><h5>CSCI 1300 - Computer Science 1: Starting Computing</h5></a>
+<h5>CSCI 1300 - Computer Science 1: Starting Computing</h5>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-three-murex.vercel.app/api?username=jarydmeek&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="jarydmeek" /></p>
 
