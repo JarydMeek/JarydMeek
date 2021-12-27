@@ -22,7 +22,23 @@
 
 
 <h2 align="center">Classes</h2>
-If you are an employer and would like access to my private repositories for any class to see my work, please let me know and I can do that!
+If you are a potential employer and would like access to my private repositories for any class to see my work, please let me know and I can do that!
+<h3 align="center">Spring 2022</h3>
+
+<h5>CSCI 3010 - Intensive Programming Workshop</h5>
+
+<h5>CSCI 3287 - Design and Analysis of Database Systems</h5>
+
+<h5>CSCI 4448 - Object-Oriented Analysis and Design</h5>
+
+<h3 align="center">Fall 2021</h3>
+
+<h5>CSCI 3155 - Principles of Programming Languages</h5>
+
+<h5>CSCI 3202 - Introduction to Artificial Intelligence</h5>
+
+<h5>CSCI 3753 - Design and Analysis of Operating Systems</h5>
+
 <h3 align="center">Spring 2021</h3>
 
 <h5>CSCI 3104 - Algorithms</h5>
