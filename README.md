@@ -25,7 +25,19 @@
 
 
 <h2 align="center">Classes</h2>
-If you are a potential employer and would like access to my private repositories for any class to see my work, please let me know and I can do that!
+<h3 align="center">Spring 2023</h3>
+
+<h5>CSCI 4318 - Software Engineering Project 2</h5>
+
+<h5>ATLS 4214 - Big Data Architecture</h5>
+
+
+<h3 align="center">Fall 2022</h3>
+
+<h5>CSCI 4308 - Software Engineering Project 1</h5>
+
+<h5>CSCI 3302 - Introduction to Robotics</h5>
+
 <h3 align="center">Spring 2022</h3>
 
 <h5>CSCI 3010 - Intensive Programming Workshop</h5>
