@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Jaryd Meek</h1>
-<h3 align="center">Software Development Engineer at Autodesk </h3>
+<h3 align="center">Senior Software Development Engineer at Autodesk </h3>
 <br>
  
 <h2 align="center">Projects</h2>
